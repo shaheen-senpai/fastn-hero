@@ -3,5 +3,8 @@
 -- fastn.package: shaheen-senpai.github.io/fastn-hero
 
 -- fastn.dependency: fastn-community.github.io/doc-site as ds
+-- fastn.dependency: fifthtry.github.io/bling as bling
 
 -- fastn.auto-import: ds
+-- fastn.auto-import: bling/chat as chat
+

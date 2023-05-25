@@ -5,17 +5,56 @@
 -- lib.hero-1: Before they sold out readymade gluten
 cta-button-1: Button
 link-1: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
-link-2: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
 cta-button-2: Button
+link-2: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
 cover: $assets.files.images.siz.png
 
 Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. 
 Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.
 
--- end: lib.hero-1
+
+
+-- lib.separator:
+
+
+
+-- lib.hero-2: Before they sold out readymade gluten
+cta-button-1: Button
+link-1: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
+cta-button-2: Button
+link-2: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
+cover: $assets.files.images.siz.png
+
+Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. 
+Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.
+
+
+
+-- lib.separator:
+
+
+
+-- lib.hero-3: Before they sold out readymade gluten
+cta-button-1: Button
+link-1: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
+cta-button-2: Button
+link-2: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
+cover: $assets.files.images.siz.png
+
+Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag.
+Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.
+
+
+
+-- lib.separator:
 
 
 
 
+-- lib.hero-4: Before they sold out readymade gluten
+cta-button-1: Button
+link-1: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
+cover: $assets.files.images.siz.png
 
-
+Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag.
+Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.
